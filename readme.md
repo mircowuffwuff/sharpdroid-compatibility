@@ -1,6 +1,6 @@
 ﻿# sharpdroid compatibility
 
-this is a game compatibility tracker for sharpdroid, an android app that runs SharpEmu.
+this is a game compatibility tracker for [sharpdroid](https://github.com/mircowuffwuff/sharpdroid), an android app that runs [SharpEmu](https://github.com/sharpemu/sharpemu).
 
 ## rules
 
