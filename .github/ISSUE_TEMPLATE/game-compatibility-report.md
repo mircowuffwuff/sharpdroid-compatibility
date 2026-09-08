@@ -25,6 +25,10 @@ please fill the **blank cells** of the following table! e.g. for Void Terrarium,
 | SharpEmu build | Bundled build |  |
 | graphics driver | System driver |  |
 
+## logs
+
+you may attach one or multiple logs to your report, but you dont have to.
+
 ## screenshots
 
 feel free to share one or multiple screenshots of the game running under sharpdroid! you dont have to, of course.
