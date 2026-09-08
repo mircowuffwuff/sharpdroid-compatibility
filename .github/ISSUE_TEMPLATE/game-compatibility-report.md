@@ -22,8 +22,8 @@ please fill the **blank cells** of the following table! e.g. for Void Terrarium,
 | device | AYN Odin 3 |  |
 | SoC | Snapdragon 8 Elite |  |
 | sharpdroid version | 3 |  |
-| SharpEmu build | Bundled build v0.0.3-release.3 |  |
-| graphics driver | System Driver |  |
+| SharpEmu build | Bundled build |  |
+| graphics driver | System driver |  |
 
 ## screenshots
 
